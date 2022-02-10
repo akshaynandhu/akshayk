@@ -29,7 +29,7 @@
 
  [![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=Julia&logoColor=white)](https://akshaynandhu.github.io/portfollio/)
  
- [![phone](https://img.shields.io/badge/-+8660196861-1DA1F2?style=for-the-badge&logo=Julia&logoColor=white)](tel:8848561898)
+ [![phone](https://img.shields.io/badge/-+8660196861-1DA1F2?style=for-the-badge&logo=Julia&logoColor=white)](tel:8660196861)
  [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-k-70a9b8222/)
  [![EMAIL](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:akshaynandhu90@gmail.com)
  
